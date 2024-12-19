@@ -28,5 +28,5 @@ Para executar este projeto, você precisará ter instalado:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/Javicksongithub/app-multiversa.git
-   cd springboot
+   git clone https://github.com/Javicksongithub/App-Multiversa.git
+   cd App-Multiversa
